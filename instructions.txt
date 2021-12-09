@@ -1,0 +1,6 @@
+SQLite Database in Python
+
+Adgenda Of the Class Today
+1.Get user input
+2. Store in the database
+
